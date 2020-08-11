@@ -1,0 +1,9 @@
+Hadoop comes with several MapReduce applications. In the Cloudera VM, these applications are in /usr/jars/hadoop-examples.jar. You can see a list of all the applications by running hadoop jar /usr/jars/hadoop-examples.jar.
+
+ex - wordcount, wordmedian
+
+To see how to use these MapReduce programs (like wordcount and wordmedian), type this and it will tell you how to run this program
+
+hadoop jar usr/jars/hadoop-examples.jar wordcount
+
+
